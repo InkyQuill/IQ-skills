@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "iq-skills",
+  "displayName": "IQ Skills",
+  "version": "0.1.0",
+  "description": "Reusable Agent Skills maintained by InkyQuill.",
+  "author": {
+    "name": "Pavel Obruchnikov",
+    "email": "me@inkyquill.net",
+    "url": "https://github.com/InkyQuill"
+  },
+  "repository": "https://github.com/InkyQuill/IQ-skills",
+  "license": "MIT",
+  "keywords": [
+    "agent-skills",
+    "codex",
+    "claude-code",
+    "javascript",
+    "temporal"
+  ],
+  "skills": "./skills/"
+}
