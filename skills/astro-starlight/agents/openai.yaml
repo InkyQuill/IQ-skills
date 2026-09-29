@@ -1,0 +1,4 @@
+interface:
+  display_name: "Astro Starlight"
+  short_description: "Build and maintain Starlight docs sites."
+  default_prompt: "Use $astro-starlight to update this Astro Starlight documentation site."

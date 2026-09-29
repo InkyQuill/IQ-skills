@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ultragrill"
+  short_description: "Think through decisions one question at a time."
+  default_prompt: "Use $ultragrill to help me think through this question rigorously."
